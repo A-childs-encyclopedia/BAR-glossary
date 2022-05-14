@@ -8,4 +8,6 @@ Com = Commander
 Arm = Armada
 Core = Cortex
 Scavs = Scavengers
+Goliaths = Tzars
+Flea = Tick
 </pre>
